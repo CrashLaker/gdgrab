@@ -4,7 +4,7 @@
 
 set_time_limit(0);
 
-include("../coni-gdgrab.php");
+include("../con-gdgrab.php");
 
 
 
